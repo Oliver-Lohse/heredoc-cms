@@ -1,4 +1,4 @@
-[CMSWorkbench.de](https://www.cmsworkbench.de/heredoc-parser-und-mini-cms-mit-php)
+[CMSWorkbench.de/heredoc...](https://www.cmsworkbench.de/heredoc-parser-und-mini-cms-mit-php)
 
 # heredoc-cms
 
