@@ -4,7 +4,7 @@ Das PHP-Skript stellt ein minimales CMS bzw. einen kleinen Template-Parser auf B
 
 ## Installation ##
 
-Gibt es nicht. Einfach das index.php auf den Webserver kopieren und die URL aufrufen - das wars.
+Gibt es nicht. Einfach das *index.php* auf den Webserver kopieren und die URL aufrufen - das wars.
 
 ## Copyright ##
 
