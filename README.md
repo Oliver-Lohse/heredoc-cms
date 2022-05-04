@@ -2,13 +2,15 @@
 
 Das PHP-Skript stellt ein minimales CMS bzw. einen kleinen Template-Parser auf Basis der Heredoc-Syntax dar. Content, Template und Parser befinden sich in einer einzigen Datei bzw. PHP Skript.
 
+>Das Skript erhebt nicht den Anspruch ein vollständiges CMS oder Parser zu sein, es soll lediglich die technische Funktion der Heredoc-Syntax, verpackt in das Anwendungsbeispiel eines Mini-CMS demonstrieren. Das Skript soll eher neue Denkanstöße für eigene Entwicklungen liefern.
+
 ## Installation ##
 
 Gibt es nicht. Einfach das *index.php* auf den Webserver kopieren und die URL aufrufen - das wars.
 
 ## Optionen ##
 
-Das Template kann natürlich ausgelagert werden und via *include()* eingebunden werden.
+Die Template-Sektion kann natürlich ausgelagert werden und via *include()* eingebunden werden, dies ist vermutlich sinnvoll wenn mehr als nur eine Webseite erzeugt werden soll.
 
 ## Copyright ##
 
