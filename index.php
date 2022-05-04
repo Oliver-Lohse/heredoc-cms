@@ -75,7 +75,7 @@ EOD;
 
 $data                  = explode("---", trim($data));   // teilt den Content in einzelne Blöcke auf
 $template              = explode('{#}', $template);     // zerlegt das Template anhand der {#}-Tokens
-$token_count                 = 0;                             // zählt die {#}-Tokens
+$token_count           = 0;                             // zählt die {#}-Tokens
 $template_order        = '';                            // nimmt das neue Template mit {#1}, {#2}... auf
 $template_target_array = array();                       // nimmt das Ziel-Array {#1}, {#2},... auf
 
