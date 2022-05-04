@@ -6,6 +6,10 @@ Das PHP-Skript stellt ein minimales CMS bzw. einen kleinen Template-Parser auf B
 
 Gibt es nicht. Einfach das *index.php* auf den Webserver kopieren und die URL aufrufen - das wars.
 
+## Optionen ##
+
+Das Template kann natürlich ausgelagert werden und via *include()* eingebunden werden.
+
 ## Copyright ##
 
 Das Programm kann frei verwendet und modifiziert werden. Eine Namensnennung der Webseite CMSWorkbench.de wäre nett, ist aber keine Bedingung.
